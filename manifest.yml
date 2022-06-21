@@ -1,0 +1,10 @@
+modules:
+  compass:adminPage:
+    - key: hello-world-hello-world-admin-page
+      function: admin
+      title: hello-world
+  function:
+    - key: admin
+      handler: admin-page.run
+app:
+  id: ari:cloud:ecosystem::app/44e6307b-26f0-462e-a1a4-539575d821bb

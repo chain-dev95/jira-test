@@ -1,0 +1,10 @@
+{
+  "name": "compass-admin-page-ui-kit",
+  "version": "1.0.4",
+  "main": "src/index.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@forge/ui": "^1.2.1"
+  }
+}
